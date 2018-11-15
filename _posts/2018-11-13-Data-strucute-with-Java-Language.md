@@ -3,11 +3,10 @@ layout: post
 title: Data Structure with Java Language
 author: ckhpharm
 tags:
-- Java
-- Data Structure
+- Data Structure with Java Language
 ---
 
-Chapter 1
+## Chapter 1
 
 ## Introduction
 -----
