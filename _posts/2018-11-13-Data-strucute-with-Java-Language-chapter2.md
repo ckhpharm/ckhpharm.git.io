@@ -18,7 +18,7 @@ __1. 추상 자료형__
 
 자료 (data), 형식 (type), 연산 (operation), 자료형 (data type)
 
-![Alt text](./image/Data-type-category.png)
+![Alt text](../assets/image/Data-type-category.png)
 
 원시 자료형 (primitive data type) : 자료가 원자 값인 원소 그 자체
 복합 자료형 (composite data type) : 자료형 내부에 또 다른 자료형을 포함할 수 있는 구조
@@ -53,6 +53,6 @@ __2-3 다형성__
 
 *다형성 (polymorphism)* = 하나의 이름을 가진 메소드가 다른 클래스에서 여러 메소드들로 중복되어 나타날 수 있다는 의미
 
-__3. Java 소개__ 
+__3. Java 소개__
 
 요건 생략
