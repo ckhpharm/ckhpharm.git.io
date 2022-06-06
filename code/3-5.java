@@ -1,0 +1,26 @@
+int[] dsInt;
+dsInt = new int[10];
+dsInt[0] = 12;
+dsInt[1] = 53;
+dsInt[2] = 49;
+dsInt[3] = 72;
+dsInt[4] = 68;
+dsInt[5] = 27;
+dsInt[6] = 91;
+dsInt[7] = 11;
+dsInt[8] = 7;
+dsInt[9] = 3;
+
+int[] dsInt = new int[10];
+int[] dsInt;
+dsInt = new int[10];
+dsInt[0] = 12;
+dsInt[1] = 53;
+dsInt[2] = 49;
+dsInt[3] = 72;
+dsInt[4] = 68;
+dsInt[5] = 27;
+dsInt[6] = 91;
+dsInt[7] = 11;
+dsInt[8] = 7;
+dsInt[9] = 3;

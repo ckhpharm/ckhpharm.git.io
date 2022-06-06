@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Data Structure with Java Language-chapter3
+title: 2022.06.06 일기
 author: ckhpharm
 tags:
-- Data Structure with Java Language
+- 일기, 열등감, 실패, 목표
 ---
 
-## Chapter 3
+## Chapter 4
 
-## 배열
+## 리스트
 -----
 
 __1. Java에서의 배열의 기초__
